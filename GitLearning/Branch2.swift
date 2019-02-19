@@ -1,5 +1,5 @@
 //
-//  Branch1.swift
+//  Branch2.swift
 //  GitLearning
 //
 //  Created by A1CAXZ96 on 19/02/19.
@@ -7,5 +7,3 @@
 //
 
 import Foundation
-
-//First change in branch 1
